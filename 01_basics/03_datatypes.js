@@ -1,7 +1,7 @@
 /*Data types refers to the types of values
 that we are storing or working with.
 
-******primitive data types******
+******primitive data types****** also called call by value data types
     1. Strings
     2. Numbers
     3. Boolean
@@ -10,9 +10,9 @@ that we are storing or working with.
     6. BigInt -> large numbers
     7. Symbol -> unique
 
-******non-primitive data types******
+******non-primitive data types****** reference data types
     1. Object -> sub divided into 3 types
         a. Object
         b. Array
-        c. Date
+        c. Function 
 */
